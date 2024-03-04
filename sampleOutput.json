@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Chris Liakos, Oscar Holland",
+      "title": "Protesters hurl soup at the ‘Mona Lisa’ in Paris - CNN",
+      "description": "Two demonstrators hurled soup at Leonardo da Vinci’s “Mona Lisa” in Paris, though the painting was protected from damage by its glass casing.",
+      "url": "https://www.cnn.com/2024/01/28/europe/soup-thrown-mona-lisa-louvre-paris-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240128060922-paris-mona-lisa-soup.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-01-29T05:29:00Z",
+      "content": "Protesters hurled soup at the Mona Lisa painting in Paris on Sunday, but it was protected from damage by its glass casing.\r\nThe environmental group Riposte Alimentaire which roughly translates to Foo… [+2780 chars]"
+    },
+    {
+      "source": { "id": "nbc-news", "name": "NBC News" },
+      "author": "Dennis Romero, Todd Miyazawa",
+      "title": "Woman says she was trapped in California snow resort gondola for 15 hours - NBC News",
+      "description": "An investigation was underway after a visitor said she was stranded in a snow resort gondola overnight in South Lake Tahoe, California.",
+      "url": "https://www.nbcnews.com/news/us-news/woman-says-was-trapped-california-snow-resort-gondola-15-hours-rcna136102",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2016_52/1847401/ski_resort.jpg",
+      "publishedAt": "2024-01-29T05:02:00Z",
+      "content": "An investigation was underway after a visitor said she was stranded in a snow resort gondola overnight in South Lake Tahoe, California.\r\nMonica Laso was at Heavenly Mountain Resort with friends Thurs… [+1984 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Frank Schwab",
+      "title": "49ers come back from 17 points down to beat Lions, will face Chiefs in Super Bowl LVIII - Yahoo Sports",
+      "description": "A couple of big fourth-down decisions by Detroit helped the 49ers come back.",
+      "url": "https://sports.yahoo.com/49ers-come-back-from-17-points-down-to-beat-lions-will-face-chiefs-in-super-bowl-lviii-025044394.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kY6zJ83Zxc_OrlhV_c_L5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/2cd7bf40-be4d-11ee-beed-2c26ecc39e37",
+      "publishedAt": "2024-01-29T04:39:00Z",
+      "content": "The Detroit Lions led by 14 points midway through the third quarter when head coach Dan Campbell decided to go for it on fourth down instead of trying a field goal. The Lions had completely outplayed… [+4969 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters",
+      "title": "HK court orders China Evergrande to liquidate with debts of $300 bln - Reuters",
+      "description": null,
+      "url": "https://www.reuters.com/business/embattled-china-evergrande-back-court-liquidation-hearing-2024-01-28/",
+      "urlToImage": null,
+      "publishedAt": "2024-01-29T04:21:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "financial-times", "name": "Financial Times" },
+      "author": null,
+      "title": "Live news: Japanese lunar spacecraft resumes operations - Financial Times",
+      "description": null,
+      "url": "https://www.ft.com/content/cf9fc72e-0f9a-4a9c-be1d-49476f4c2b28",
+      "urlToImage": null,
+      "publishedAt": "2024-01-29T04:18:45Z",
+      "content": "Then $29 per 3 months. Today's FT for easy reading on any device, with a brand new app. Please note this does not include access to ft.com or the FT main app."
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Joe Sutton",
+      "title": "2 dead, including suspect, and 2 police officers wounded in Florida shootout - CNN",
+      "description": "Two people died and two police officers in Palm Bay, Florida, were injured Sunday afternoon when the officers responded to a domestic disturbance call, according to local authorities.",
+      "url": "https://www.cnn.com/2024/01/28/us/florida-palm-bay-police-shooting/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240128180443-02-palm-beach-officers-shot-012824.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-01-29T03:25:00Z",
+      "content": "Two people died and two police officers in Palm Bay, Florida, were injured Sunday afternoon when the officers responded to a domestic disturbance call, according to local authorities.\r\nThe two office… [+1705 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "The “Surprisingly Different” JN.1 Variant Is a Game-Changer in Our COVID Battle - SciTechDaily",
+      "description": "The JN.1 COVID-19 variant, emerging in late 2023, marks a significant shift in the virus's evolution, emphasizing the need for sustained global health efforts. Since it was detected in August 2023, the JN.1 variant of COVID has spread widely. It has become do…",
+      "url": "https://scitechdaily.com/the-surprisingly-different-jn-1-variant-is-a-game-changer-in-our-covid-battle/",
+      "urlToImage": "https://scitechdaily.com/images/COVID-Evolution-Virus-Variant-Concept.jpg",
+      "publishedAt": "2024-01-29T03:19:31Z",
+      "content": "BySuman Majumdar, Brendan Crabb, Emma Pakula, and Stuart TurvilleJanuary 28, 2024JN.1, a new COVID-19 variant detected in August 2023, has quickly spread worldwide, showing significant evolutionary c… [+7185 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Ringer" },
+      "author": "Ben Lindbergh",
+      "title": "Who Done It? Breaking Down ‘True Detective: Night Country’ Episode 3 - The Ringer",
+      "description": "Is there a rational explanation for what’s occurring in ‘Night Country,’ or is something supernatural happening? Halfway through ‘True Detective’ Season 4, those questions are still being asked.",
+      "url": "https://www.theringer.com/2024/1/28/24054006/true-detective-night-country-season-4-episode-3-recap-theories",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/5vWlZcFtZhnZJIhE5xSnz7FKbLs=/0x0:1200x628/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25253905/truedetective_ep3b_HBO_ringer.jpg",
+      "publishedAt": "2024-01-29T03:16:25Z",
+      "content": "After four years away, True Detective returns for a new season with a sinistrous subtitle. Were in Night Country now, and well be following along each week to try to piece together, with the help of … [+24769 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "49ers' Brandon Aiyuk makes sensational catch off Lions defender's helmet, sets up key TD in NFC title-game win - CBS Sports",
+      "description": "The Niners playmaker helped turn things around for the NFC's No. 1 seed",
+      "url": "https://www.cbssports.com/nfl/news/49ers-brandon-aiyuk-makes-sensational-catch-off-lions-defenders-helmet-sets-up-key-td-in-nfc-title-game-win/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/01/29/0d957649-5981-4d29-8927-0408dc6a54ff/thumbnail/1200x675/c02f27c3dfb16b5225b194480a6d7db4/aiyuk-jpeg.jpg",
+      "publishedAt": "2024-01-29T03:06:00Z",
+      "content": "Sometimes you just need the ball to bounce your way. The San Francisco 49ers clawed back into their NFC Championship showdown en route to a 34-31 comeback win over the Detroit Lions, who held a 24-7 … [+1192 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Woman clings to speeding car's hood after French bulldog stolen in Southern California - ABC 7 Chicago",
+      "description": "Streaming now at https://abc7chicago.com/watch/live/11064984/.Ali Zacharias clung to a speeding car in downtown Los Angeles, CA after thieves stole her Frenc...",
+      "url": "https://www.youtube.com/watch?v=Nv_QY07Ma-8",
+      "urlToImage": "https://i.ytimg.com/vi/Nv_QY07Ma-8/maxresdefault.jpg",
+      "publishedAt": "2024-01-29T02:25:49Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Bloomberg News",
+      "title": "China Tightens Securities Lending Rule to Support Stock Market - Yahoo Finance",
+      "description": "(Bloomberg) -- China will halt the lending of certain shares for short selling from Monday, the securities regulator announced Sunday, in a move to support...",
+      "url": "https://finance.yahoo.com/news/china-suspends-lending-securities-short-074046551.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2wXOhZEKKuOXIQCq_.c2HQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/bloomberg_markets_842/c7046d4f5c72e24b4c2643a3b44a6389",
+      "publishedAt": "2024-01-29T02:19:00Z",
+      "content": "(Bloomberg) -- China will halt the lending of certain shares for short selling from Monday, the securities regulator announced Sunday, in a move to support the countrys slumping stock markets.\r\nMost … [+3362 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Athletic" },
+      "author": "Nate Taylor and Amos Morale III",
+      "title": "Chiefs TE Travis Kelce passes Jerry Rice for most postseason receptions in NFL history - The Athletic",
+      "description": "Kelce's longevity, durability and athleticism allowed him to break a record that was quite remarkable.",
+      "url": "https://theathletic.com/5233760/2024/01/28/travis-kelce-nfl-record-postseason-receptions-jerry-rice/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/01/28162036/GettyImages-1968175612.jpg",
+      "publishedAt": "2024-01-29T02:02:15Z",
+      "content": "Kansas City Chiefs tight end Travis Kelce passed Pro Football Hall of Famer Jerry Rice for the most postseason receptions all-time in Sundays AFC Championship game against the Baltimore Ravens.\r\nKelc… [+1527 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "Stubb narrowly wins first round of Finland’s presidential election - Al Jazeera English",
+      "description": "Alexander Stubb, a former prime minister, and Pekka Haavisto, a former foreign minister, will meet again on February 11.",
+      "url": "https://www.aljazeera.com/news/2024/1/28/finns-head-to-the-polls-to-pick-new-president",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/01/2024-01-28T180527Z_1075293510_RC25R5AWB8ZZ_RTRMADP_3_FINLAND-ELECTION-1706472197.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-01-29T01:31:04Z",
+      "content": "Alexander Stubb of Finlands centre-right National Coalition Party has emerged the winner of the first round of the countrys presidential election and will go head-to-head with Pekka Haavisto of the l… [+4001 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Haley Britzky, Natasha Bertrand, Oren Liebermann",
+      "title": "Three US troops killed in drone attack in Jordan, more than 30 injured - CNN",
+      "description": "Three US Army soldiers were killed and more than 30 service members were injured in a drone attack overnight on a small US outpost in Jordan, US officials told CNN, marking the first time US troops have been killed by enemy fire in the Middle East since the b…",
+      "url": "https://www.cnn.com/2024/01/28/politics/us-troops-drone-attack-jordan/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/63440784-9271-4e57-805c-1a56267d131b.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-01-29T01:27:00Z",
+      "content": "Three US Army soldiers were killed and more than 30 service members were injured in a drone attack overnight on a small US outpost in Jordan, US officials told CNN, marking the first time US troops h… [+5946 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Bradford Betz",
+      "title": "Republican ex-judge argued Trump engaged in insurrection, should be removed from Illinois primary ballot - Fox News",
+      "description": "A Republican retired judge is arguing that former President Trump should be removed from Illinois’ primary ballot for engaging in an insurrection in the Jan. 6 US Capitol attacks.",
+      "url": "https://www.foxnews.com/politics/republican-ex-judge-argued-trump-engaged-insurrection-should-removed-illinois-primary-ballot",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/6b7cb5c2-2.jpg",
+      "publishedAt": "2024-01-29T00:53:00Z",
+      "content": "Join Fox News for access to this content\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you… [+2733 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "David Pierce",
+      "title": "Arc Search: a new iPhone app combining browser, search, and AI - The Verge",
+      "description": "The Browser Company launched a new iPhone app with the Arc Search browser and a new way of using the internet, via an AI-powered assistant it calls “Browse for me.”",
+      "url": "https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/hUnbniGqXV22VRyJbmVWrPnIT4k=/0x0:4500x3000/1200x628/filters:focal(2250x1500:2251x1501)/cdn.vox-cdn.com/uploads/chorus_asset/file/25253510/Arc_Search.jpg",
+      "publishedAt": "2024-01-29T00:35:00Z",
+      "content": "Arc Search combines browser, search engine, and AI into something new and different\r\nArc Search combines browser, search engine, and AI into something new and different\r\n / Browse for me is the new s… [+4624 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Reuters",
+      "title": "North Korea tests submarine-launched cruise missiles, KCNA says - New York Post ",
+      "description": "North Korea tested its new strategic cruise missiles for the second time in a week on Sunday, calling it a newly developed submarine-launched cruise missile, state media reported.",
+      "url": "https://nypost.com/2024/01/28/news/north-korea-tests-submarine-launched-cruise-missiles-kcna-says/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/newspress-collage-qhmjvtgbh-1706485800590.jpg?quality=75&strip=all&1706467968&w=1024",
+      "publishedAt": "2024-01-29T00:13:00Z",
+      "content": "SEOUL North Korea tested its new strategic cruise missiles for the second time in a week on Sunday, calling it a newly developed submarine-launched cruise missile (SLCM), accelerating its navy’s nucl… [+2745 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Shreyashi Sanyal",
+      "title": "Singapore's central bank leaves policy unchanged in first quarterly meeting of 2024 - CNBC",
+      "description": "The Monetary Authority of Singapore said it will also maintain its exchange rate policy band known as the Singapore dollar nominal effective exchange rate or S$NEER.",
+      "url": "https://www.cnbc.com/2024/01/29/singapores-central-bank-leaves-policy-unchanged-in-first-quarterly-meeting-of-2024.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107201283-1677627194808-gettyimages-1245952343-SINGAPORE_ECONOMY.jpeg?v=1677628294&w=1920&h=1080",
+      "publishedAt": "2024-01-29T00:12:00Z",
+      "content": "The Merlion statue in Singapore, on Tuesday, Jan. 3, 2023. Photographer: Lionel Ng/Bloomberg via Getty Images\r\nSingapore's central bank left its policy unchanged on Monday in its first quarterly mone… [+3778 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Chris Nesi",
+      "title": "5 asteroids, including one the size of a sports stadium, expected to pass near Earth - New York Post ",
+      "description": "An asteroid the size of a sports stadium is currently hurdling towards the Earth, and will be joined by four other celestial near-misses this week, with the largest expected to pass within less tha…",
+      "url": "https://nypost.com/2024/01/28/news/5-asteroids-including-one-the-size-of-a-sports-stadium-to-pass-near-earth-this-week/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/newspress-collage-0nujmljua-1706484176463.jpg?quality=75&strip=all&1706466240&w=1024",
+      "publishedAt": "2024-01-28T23:36:00Z",
+      "content": "An asteroid the size of a sports stadium was hurdling towards the Earth this week and will be joined by four other celestial near-misses, with the largest expected to pass within less than 2 million … [+2451 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Hakyung Kim",
+      "title": "Stock futures fall ahead of big tech earnings and Fed meeting decision: Live updates - CNBC",
+      "description": "Stock futures were lower Sunday night ahead of a busy earnings week and Fed policy decision.",
+      "url": "https://www.cnbc.com/2024/01/28/stock-futures-fall-ahead-of-big-tech-earnings-and-fed-meeting-decision-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107363060-1706024363954-gettyimages-1953262139-ms2_3153_vk59oe2r.jpeg?v=1706482388&w=1920&h=1080",
+      "publishedAt": "2024-01-28T23:23:00Z",
+      "content": "U.S. stock futures fell across the board Sunday night as Wall Street looked toward several mega-cap tech earnings reports and the Federal Reserve's rate policy decision. \r\nFutures tied to the Dow Jon… [+1825 chars]"
+    }
+  ]
+}
