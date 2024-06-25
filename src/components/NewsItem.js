@@ -11,7 +11,7 @@ import React from 'react'
     let {title,description,imageUrl,newsUrl,author,date,source}=props;
     return (
 
-        <div className="my-3" style={{width:"18rem", justifyContent:'center', display:'flex'}}>
+        <div className="my-3">
         <div className="card">
          <img src={!imageUrl?"https://www.livemint.com/lm-img/img/2024/01/29/1600x900/2-0-1244114454-iStock-839214100-0_1679615828655_1706510496641.jpg":imageUrl} className="card-img-top" alt="..."/> 
         <div className="container"> 
