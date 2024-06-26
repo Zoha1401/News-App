@@ -39,3 +39,29 @@
 .news-item p {
     margin: 0;
 }
+
+.gallery{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    max-width:1400px;
+    margin:0 auto;
+    padding: 20px 10px ;
+    gap:20px;
+
+}
+
+.sizing{
+    width: 100%;
+   
+    max-width:400px;
+    object-fit:cover;
+    
+}
+
+.gallery::after{
+    content:"";
+    width:350px;
+  }

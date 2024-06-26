@@ -47,24 +47,29 @@ const News = (props)=>{
  
         return (
             <>
+            
+
+            <header>
                 <h1 className="text-center" style={{ margin: '35px 0px', marginTop: '90px' }}>NewsMonkey - Top {capitalizeFirstLetter(props.category)} Headlines</h1>
+                </header>
                 {loading && <Spinner />}
                 <InfiniteScroll
                     dataLength={articles.length}
                     next={fetchMoreData}
                     hasMore={articles.length !== totalResults}
                     loader={<Spinner/>}
+                    
                 > 
-                    <div className="container">
-                         
-                    <div className="row -3">
+                
+<div className="gallery">
+                        
                         {articles.map((element) => {
-                            return <div className="col-md-4" key={element.url}>
+                            return <div className="sizing" key={element.url}>
                                 <NewsItem title={element.title ? element.title : ""} description={element.description ? element.description : ""} imageUrl={element.urlToImage} newsUrl={element.url} author={element.author} date={element.publishedAt} source={element.source.name} />
                             </div>
                         })}
-                    </div>
-                    </div> 
+                   </div>
+                  
                 </InfiniteScroll>
             </>
         )
